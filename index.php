@@ -19,7 +19,7 @@
 
   <meta name="robots" content="index, follow">
 
-  <link rel="canonical" href="https://recipersoso.online/">
+  <link rel="canonical" href="https://recipersoso-58fadacc7b36.herokuapp.com/">
 
   <style>
     /* =========================
@@ -2230,8 +2230,8 @@
 
             <strong>Email</strong>
 
-            <a href="mailto:contact@recipersoso.online">
-              contact@recipersoso.online
+            <a href="mailto:contact@recipersoso-58fadacc7b36.herokuapp.com">
+              contact@recipersoso-58fadacc7b36.herokuapp.com
             </a>
 
           </div>
@@ -2676,8 +2676,8 @@
 
           <p>
             Email:
-            <a href="mailto:contact@recipersoso.online">
-              contact@recipersoso.online
+            <a href="mailto:contact@recipersoso-58fadacc7b36.herokuapp.com">
+              contact@recipersoso-58fadacc7b36.herokuapp.com
             </a>
           </p>
 
@@ -2693,7 +2693,7 @@
       <div class="copyright">
 
         <p>
-          © 2026 Recipersoso — recipersoso.online. All rights reserved.
+          © 2026 Recipersoso — recipersoso-58fadacc7b36.herokuapp.com. All rights reserved.
         </p>
 
       </div>
